@@ -1,0 +1,22 @@
+.banner {
+  
+  padding-bottom: 200px;
+  padding-top: 200px;
+  background-image: linear-gradient( rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4) ), url(../img/banner-img.jpg) ;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 1600px;
+  margin: 0 auto;
+  
+}
+
+.banner-text {
+  color: var(--color-white);
+  font-size: 44px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 0.06em;
+  max-width: 696px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
